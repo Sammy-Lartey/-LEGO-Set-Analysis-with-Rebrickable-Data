@@ -1,18 +1,21 @@
 # -LEGO-Set-Analysis-with-Rebrickable-Data
 
-##Overview
+## Overview
+
 The LEGO Set Analytics project aims to provide insights into LEGO sets stored in the REBRICKABLE database. Utilizing data sourced from the Rebrickable website, this project involves analyzing various aspects of LEGO sets, including themes, release years, part distribution, and popular themes by year. By leveraging SQL queries and database views, the project facilitates data-driven decision-making for LEGO enthusiasts, collectors, and businesses.
 
 ## Data Source
 
 The data for the LEGO Set Analytics project was sourced from the [Rebrickable Downloads Page](https://rebrickable.com/downloads/).
 
-###SQL Scripts
+### SQL Scripts
 
-####REBRICKABLE 01.sql
+#### REBRICKABLE 01.sql
+
 Contains SQL queries to analyze LEGO sets data, including total number of parts per theme, total number of parts per year, number of sets created in each century, percentage of sets released in the 21st century that are themed as Trains, popular theme by year in the 21st century, and the most produced LEGO color in terms of quantity of parts.
 
-####REBRICKABLE 02.sql
+#### REBRICKABLE 02.sql
+
 Creates the analytics_main view in the REBRICKABLE database, which serves as the primary source for data analysis.
 
 ## REBRICKABLE DATA Folder
