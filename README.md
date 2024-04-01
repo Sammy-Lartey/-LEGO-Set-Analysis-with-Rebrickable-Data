@@ -18,6 +18,6 @@ Contains SQL queries to analyze LEGO sets data, including total number of parts 
 
 Creates the analytics_main view in the REBRICKABLE database, which serves as the primary source for data analysis.
 
-## REBRICKABLE DATA Folder
+#### REBRICKABLE DATA Folder
 
 The `REBRICKABLE DATA` folder contains 12 CSV files providing additional data for the LEGO Set Analytics project. The contents of these files include information such as set details, part inventory, theme classification, and color information. These CSV files complement the data stored in the `REBRICKABLE` database and can be used for further analysis and validation.
